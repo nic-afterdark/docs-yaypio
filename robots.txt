@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ekbo57.privatetalks.online/sitemap.xml
